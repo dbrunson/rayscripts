@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script makes a csv file with all info for contigs and scaffolds gt 500 nt from ray output
-# run this script in the directory that alls all your ray run directories
+# run this script in the directory that has all your ray run directories
 # in other words, ls -d */ should list all your ray runs
 # it puts the output into outputfile
 
